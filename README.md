@@ -34,38 +34,19 @@ To contribute, send in a pull request!
 
 Browser:
 * Runs in the browser
-* Deployed Link: [https://narratorium.herokuapp.com/](https://narratorium.herokuapp.com/)
+* Deployed Link: [https://salty-shore-55684.herokuapp.com/](https://salty-shore-55684.herokuapp.com/)
 
 Clone:
 
 Download and install [Node.js](https://nodejs.org/en/download/)
 Clone the repository
 ```bash
-git@github.com:Corasinth/narratorium.git
+git@github.com:espinbrandon49/A-Text-Editor-You-Do-Not-Need.git
 ```
 Run npm install to install the npm dependencies from the [package.json](./package.json)
 ```bash
 npm install
 ```
-Create the development database
-* Go to the directory of schema.sql
-
-* Open a MySQL shell and enter this command
-```
-source schema.sql
-```
-Seed the database with test data (optional)
-
-* Open a terminal and enter this command 
-```
-npm run seed
-```
-Invoke the application to start the server
-* In the terminal enter this command
-```
-npm run watch
-```
-***
 
 ## Collaboration
 ### Jerome Chennete
