@@ -4,7 +4,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 ## Description 
-A text-editor that runs in the browser.  The app is a single page application that meets the PWA criteria.  The application will also function offline.  Data  is persisted in an IndexedDb database and local storage as a redundancy. Their are also default headers.
+A text-editor that runs in the browser.  The app is a single page application that meets the PWA criteria.  The application will also function offline.  Data  is persisted in an IndexedDb database with local storage and default headers as redundancies.
 
 [Deployed link](https://salty-shore-55684.herokuapp.com/)
 Git clone - git@github.com:espinbrandon49/Seen-Accessibility.git
